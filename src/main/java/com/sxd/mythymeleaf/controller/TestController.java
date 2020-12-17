@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class TestController {
     @RequestMapping("/getgit")
     public String getgit(){
-        return "添加的一个Controller！！！";
+        return "分支sxd1添加的一个Controller！！！";
     }
 }
